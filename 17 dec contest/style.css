@@ -1,0 +1,199 @@
+.navbar {
+  position: absolute;
+  width: 1728px;
+  height: 87px;
+  left: 0px;
+  top: 0px;
+  background: #000000;
+  position: sticky;
+}
+/* css for company name  */
+.company-name {
+  color: white;
+  position: absolute;
+  width: 180px;
+  height: 29px;
+  left: 38px;
+  top: 29px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+}
+/* css for home  */
+.menu #home {
+  position: absolute;
+  width: 67px;
+  height: 29px;
+  left: 1171px;
+  top: 29px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+/* css for about  */
+.menu #about {
+  position: absolute;
+  width: 111px;
+  height: 29px;
+  left: 1267px;
+  top: 29px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+/* css for mobile app  */
+#mobile {
+  position: absolute;
+  width: 127px;
+  height: 29px;
+  left: 1407px;
+  top: 29px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+/* css for contact us  */
+#contact {
+  position: absolute;
+  width: 127px;
+  height: 29px;
+  left: 1563px;
+  top: 29px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+/* css for container  */
+.container {
+  margin: 53px;
+}
+/* css for content  */
+.content {
+  position: absolute;
+  width: 791px;
+  height: 651px;
+  left: 38px;
+  top: 140px;
+}
+#btn {
+  position: absolute;
+  width: 226px;
+  height: 58px;
+  left: 38px;
+  top: 762px;
+  background: #000000;
+  color: #ffffff;
+}
+/* css for image  */
+.image {
+  position: absolute;
+  width: 729px;
+  height: 911px;
+  left: 922px;
+  top: 140px;
+  background: #d9d9d9;
+  overflow: hidden;
+}
+/* css for flex container  */
+.flex {
+  margin-top: 1301px;
+}
+/* css for flex images  */
+.flex h1 {
+  position: absolute;
+  width: 600px;
+  height: 94px;
+  left: 50px;
+  top: 1154px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 77px;
+
+  color: #000000;
+}
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 30px;
+  width: 1750px;
+}
+.box1 {
+  width: 498.42px;
+  height: 447.57px;
+  left: 50px;
+  top: 1301px;
+  background: #d9d9d9;
+}
+.box2 {
+  width: 498.42px;
+  height: 447.57px;
+  left: 50px;
+  top: 1301px;
+  background: #d9d9d9;
+}
+.box3 {
+  width: 498.42px;
+  height: 447.57px;
+  left: 50px;
+  top: 1301px;
+
+  background: #d9d9d9;
+}
+.box4 {
+  width: 498.42px;
+  height: 447.57px;
+  left: 50px;
+  top: 1301px;
+
+  background: #d9d9d9;
+}
+.box5 {
+  width: 498.42px;
+  height: 447.57px;
+  left: 50px;
+  top: 1301px;
+
+  background: #d9d9d9;
+}
+.box6 {
+  width: 498.42px;
+  height: 447.57px;
+  left: 50px;
+  top: 1301px;
+
+  background: #d9d9d9;
+}
+body {
+  scroll-behavior: auto;
+}
